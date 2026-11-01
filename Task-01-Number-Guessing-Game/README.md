@@ -14,6 +14,7 @@ A game in which the player attempts to guess a random number within a limited nu
 - Game state handling
 
 ## Why It Matters
+
 This project demonstrates clarity in logic design and the ability to create an engaging interactive experience using simple Python concepts.
 
 ## Outcome
