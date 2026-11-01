@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+
 DATA_FILE = Path(__file__).with_name("tasks.json")
 
 
