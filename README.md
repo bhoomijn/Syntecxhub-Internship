@@ -30,6 +30,7 @@ This repository is structured to be clear and easy for recruiters to evaluate. I
 ## Project Structure
 
 ```text
+
 Syntecxhub-Internship/
 ├── README.md
 ├── Task-01-Number-Guessing-Game/
