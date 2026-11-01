@@ -1,6 +1,7 @@
 import random
 
 
+
 def play_game():
     print("Welcome to the Number Guessing Game!")
     secret_number = random.randint(1, 100)
