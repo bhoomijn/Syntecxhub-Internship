@@ -15,6 +15,7 @@ A collection of lightweight Python utilities that perform simple but helpful ope
 - Practical automation
 
 ## Why It Matters
+
 This project demonstrates the ability to build useful software beyond theory and highlights my understanding of real-world utility design.
 
 ## Outcome
