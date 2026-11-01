@@ -7,6 +7,7 @@ The Utility Tools project focuses on building small command-line programs that s
 A collection of lightweight Python utilities that perform simple but helpful operations, emphasizing usability and function-driven design.
 
 ## Skills Demonstrated
+
 - Python scripting
 - Function design
 - CLI interaction
