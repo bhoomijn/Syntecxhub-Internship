@@ -5,6 +5,7 @@
 The Task Manager is a small Python application designed to help users create, manage, and track their tasks in a simple and organized way.
 
 ## What I Built
+
 A CLI-based task manager that allows users to add, view, update, and remove tasks based on a clear workflow and status system.
 
 ## Skills Demonstrated
